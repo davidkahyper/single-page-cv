@@ -1,0 +1,27 @@
+.page {
+    margin: 3%
+}
+
+.body-class {
+    margin: 100px;
+}
+
+#first-line {
+    width: auto;
+    height: 4px;
+    background-color: black;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: green;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+div {
+    margin-bottom: 40px;
+}
