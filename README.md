@@ -4,6 +4,7 @@ My single page CV website, builded using HTML and some, really some CSS
 ## Description
 I really need some practice in HTML, because u learn some stuff, features, but if u can`t apply it for the real purpose, for what u are learning it?
 I think this, so u see this site.
+I don`t learn much, probably, because I knew how to build the page, but I don`t build it yet. The most interesting thing is Open Graph meta tags, i heard about them for the first time. And making this page is cool too.
 
 ## Preview
 ### With CSS
